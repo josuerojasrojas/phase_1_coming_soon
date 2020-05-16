@@ -1,0 +1,19 @@
+{
+  "name": "phase_1_coming_soon",
+  "version": "1.0.0",
+  "description": "coming soon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "node -e 'require(`singlepagedevrefresh`)();'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github_withcheesepls:withcheesepls/phase_1_coming_soon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "singlepagedevrefresh": "^1.5.1"
+  }
+}
